@@ -110,12 +110,12 @@ function App() {
               - You can use <strong>(a)</strong> for only string characters.
             </p>
             <p>
-              - You can use <strong>(*)</strong> for alphanumberic characters.
+              - You can use <strong>(*)</strong> for alphanumeric characters.
             </p>
             <p>
               - If you want to use a space you can put the in mask combination.
             </p>
-            <p>- You can use all mask charackters together.</p>
+            <p>- You can use all mask characters together.</p>
             <p>
               - (*) (#) (a) All types that do not contain a are used as a
               separator.
